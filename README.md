@@ -33,7 +33,7 @@ Me interesa especialmente comprender cómo funcionan los ordenadores desde sus n
 * Sistemas embebidos
 * Interacción entre hardware y software
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 ### Lenguajes de programación
 `Python` `Java` `C` `C++` `Assembly` `R`
