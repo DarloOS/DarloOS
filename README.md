@@ -37,8 +37,6 @@ Me interesa especialmente comprender cómo funcionan los ordenadores desde sus n
 
 ### Lenguajes de programación
 `Python` `Java` `C` `C++` `Assembly` `R`
-### Hardware y sistemas embebidos
-`VHDL — básico` `Verilog — básico`
 ### Modelado, datos y optimización
 `SQL` `MiniZinc` `FreeCAD`
 ### Herramientas y plataformas
