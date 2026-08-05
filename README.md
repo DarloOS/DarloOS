@@ -26,7 +26,7 @@ Me interesa especialmente comprender cómo funcionan los ordenadores desde sus n
 *  Interesado en hardware, electrónica y microcontroladores.
 *  Me atraen los proyectos relacionados con automatización, inteligencia artificial y domótica.
 
-## 🔬 Áreas de interés
+##  Áreas de interés
 
 * Arquitectura de computadores
 * Microcontroladores
@@ -42,7 +42,7 @@ Me interesa especialmente comprender cómo funcionan los ordenadores desde sus n
 ### Herramientas y plataformas
 `Git` `Docker` `AWS` `Linux`
 
-## 📚 Actualmente estoy aprendiendo
+##  Actualmente estoy aprendiendo
 
 Actualmente estoy ampliando mis conocimientos sobre:
 
@@ -50,3 +50,15 @@ Actualmente estoy ampliando mis conocimientos sobre:
 - Comunicación entre sensores, actuadores y microcontroladores.
 - Funcionamiento interno de los computadores.
 - Lenguajes de descripción de Hardware
+
+##  Proyecto destacado
+#### Núcleo SHA-256 en Verilog con referencia Python
+Implementación del algoritmo SHA-256 que combina una referencia software en Python con un núcleo hardware secuencial desarrollado en Verilog.
+
+El proyecto incluye:
+- Implementación manual de SHA-256 y doble SHA-256 en Python.
+- Núcleo SHA-256 secuencial para bloques de 512 bits en Verilog.
+- Expansión del message schedule y ejecución de las 64 rondas del algoritmo.
+- Pruebas automáticas en Python y simulación del diseño hardware.
+- Documentación sobre la arquitectura, el software de referencia y el rendimiento.
+- Tecnologías: Verilog Python Icarus Verilog GTKWave pytest
